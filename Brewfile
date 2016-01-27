@@ -15,6 +15,8 @@ brew 'imagemagick'
 brew 'wget'
 brew 'z'
 brew 'zsh'
+brew 'gnu-tar'
+brew 'gnu-sed'
 brew 'homebrew/dupes/screen'
 brew 'homebrew/versions/node4-lts'
 

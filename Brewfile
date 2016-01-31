@@ -17,6 +17,7 @@ brew 'z'
 brew 'zsh'
 brew 'gnu-tar'
 brew 'gnu-sed'
+brew 'hugo'
 brew 'homebrew/dupes/screen'
 brew 'homebrew/versions/node4-lts'
 

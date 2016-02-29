@@ -19,6 +19,7 @@ brew 'gnu-tar'
 brew 'gnu-sed'
 brew 'hugo'
 brew 'highlight'
+brew 'kubernetes-cli'
 brew 'homebrew/dupes/screen'
 brew 'homebrew/versions/node4-lts'
 

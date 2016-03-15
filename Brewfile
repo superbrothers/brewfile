@@ -20,6 +20,7 @@ brew 'gnu-sed'
 brew 'hugo'
 brew 'highlight'
 brew 'kubernetes-cli'
+brew 'jq'
 brew 'homebrew/dupes/screen'
 brew 'homebrew/versions/node4-lts'
 

@@ -21,6 +21,7 @@ brew 'hugo'
 brew 'highlight'
 brew 'kubernetes-cli'
 brew 'jq'
+brew 'zsh-syntax-highlight'
 brew 'homebrew/dupes/screen'
 brew 'homebrew/versions/node4-lts'
 

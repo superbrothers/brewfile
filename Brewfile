@@ -25,6 +25,8 @@ brew 'zsh-syntax-highlight'
 brew 'zsh-completions'
 brew 'homebrew/dupes/screen'
 brew 'homebrew/versions/node4-lts'
+brew 'ruby-build'
+brew 'rbenv'
 
 tap 'caskroom/cask'
 cask 'atom'

@@ -27,6 +27,7 @@ brew 'homebrew/dupes/screen'
 brew 'homebrew/versions/node4-lts'
 brew 'ruby-build'
 brew 'rbenv'
+brew 'jsonnet'
 
 tap 'caskroom/cask'
 cask 'atom'

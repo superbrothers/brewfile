@@ -40,6 +40,7 @@ cask 'karabiner'
 cask 'slack'
 cask 'vagrant'
 cask 'virtualbox'
+cask 'spectacle'
 
 tap 'caskroom/fonts'
 cask 'font-devicons'

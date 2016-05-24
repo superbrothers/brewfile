@@ -28,6 +28,8 @@ brew 'homebrew/versions/node4-lts'
 brew 'ruby-build'
 brew 'rbenv'
 brew 'jsonnet'
+brew 'gotags'
+brew 'ctags'
 
 tap 'caskroom/cask'
 cask 'atom'

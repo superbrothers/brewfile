@@ -33,7 +33,7 @@ brew 'ctags'
 
 tap 'caskroom/cask'
 cask 'atom'
-cask 'dockertoolbox'
+cask 'docker'
 cask 'dropbox'
 cask 'google-chrome'
 cask 'google-japanese-ime'

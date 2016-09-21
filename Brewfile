@@ -48,6 +48,6 @@ tap 'caskroom/fonts'
 cask 'font-devicons'
 cask 'font-fontawesome'
 cask 'font-noto-sans'
-cask 'font-noto-sans-japanese'
+cask 'font-noto-sans-cjk-jp'
 cask 'font-noto-serif'
 # vim: set ft=ruby :

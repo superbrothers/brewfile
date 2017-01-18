@@ -44,6 +44,7 @@ cask 'slack'
 cask 'vagrant'
 cask 'virtualbox'
 cask 'spectacle'
+cask 'minikube'
 
 tap 'caskroom/fonts'
 cask 'font-devicons'

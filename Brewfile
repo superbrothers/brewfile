@@ -30,6 +30,7 @@ brew 'rbenv'
 brew 'jsonnet'
 brew 'gotags'
 brew 'ctags'
+brew 'stern'
 
 tap 'caskroom/cask'
 cask 'atom'

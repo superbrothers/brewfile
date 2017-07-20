@@ -1,6 +1,7 @@
 tap 'homebrew/dupes'
 tap 'homebrew/versions'
 tap 'superbrothers/zsh-kubectl-prompt', 'git://github.com/superbrothers/zsh-kubectl-prompt'
+tap 'superbrothers/minikube-ingress-dns', 'git://github.com/superbrothers/minikube-ingress-dns'
 
 brew 'coreutils'
 brew 'go'
@@ -33,6 +34,7 @@ brew 'ctags'
 brew 'stern'
 brew 'kubernetes-helm'
 brew 'zsh-kubectl-prompt'
+brew 'minikube-ingress-dns'
 
 tap 'caskroom/cask'
 cask 'atom'

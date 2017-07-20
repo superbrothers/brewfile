@@ -13,7 +13,6 @@ brew 'tree'
 brew 'vim', args: ['with-lua', 'with-luajit']
 brew 'imagemagick'
 brew 'wget'
-brew 'z'
 brew 'zsh'
 brew 'gnu-tar'
 brew 'gnu-sed'

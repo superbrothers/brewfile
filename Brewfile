@@ -1,5 +1,6 @@
 tap 'homebrew/dupes'
 tap 'homebrew/versions'
+tap 'superbrothers/zsh-kubectl-prompt', 'git://github.com/superbrothers/zsh-kubectl-prompt'
 
 brew 'coreutils'
 brew 'go'
@@ -31,6 +32,7 @@ brew 'gotags'
 brew 'ctags'
 brew 'stern'
 brew 'kubernetes-helm'
+brew 'zsh-kubectl-prompt'
 
 tap 'caskroom/cask'
 cask 'atom'

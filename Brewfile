@@ -30,6 +30,7 @@ brew 'jsonnet'
 brew 'gotags'
 brew 'ctags'
 brew 'stern'
+brew 'kubernetes-helm'
 
 tap 'caskroom/cask'
 cask 'atom'

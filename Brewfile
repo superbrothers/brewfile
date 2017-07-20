@@ -37,7 +37,6 @@ brew 'zsh-kubectl-prompt'
 brew 'minikube-ingress-dns'
 
 tap 'caskroom/cask'
-cask 'atom'
 cask 'docker'
 cask 'dropbox'
 cask 'google-chrome'

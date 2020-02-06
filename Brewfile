@@ -37,6 +37,7 @@ cask 'vagrant'
 cask 'virtualbox'
 cask 'spectacle'
 cask 'google-backup-and-sync'
+cask 'google-cloud-sdk'
 
 cask 'font-devicons'
 cask 'font-fontawesome'

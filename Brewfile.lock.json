@@ -644,6 +644,12 @@
         "options": {
           "full_name": "google-cloud-sdk"
         }
+      },
+      "font-hack": {
+        "version": "3.003",
+        "options": {
+          "full_name": "font-hack"
+        }
       }
     }
   },

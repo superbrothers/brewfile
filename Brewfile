@@ -26,6 +26,7 @@ brew 'hub'
 brew 'asdf'
 brew 'vault'
 brew 'gnupg'
+brew 'watch'
 
 tap 'superbrothers/zsh-kubectl-prompt'
 brew 'zsh-kubectl-prompt'

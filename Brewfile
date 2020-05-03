@@ -42,6 +42,7 @@ cask 'spectacle'
 cask 'google-backup-and-sync'
 cask 'google-cloud-sdk'
 
+tap 'homebrew/cask-fonts'
 cask 'font-devicons'
 cask 'font-fontawesome'
 cask 'font-noto-sans'

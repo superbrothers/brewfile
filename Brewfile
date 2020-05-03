@@ -41,6 +41,7 @@ cask 'virtualbox'
 cask 'spectacle'
 cask 'google-backup-and-sync'
 cask 'google-cloud-sdk'
+cask 'stay'
 
 tap 'homebrew/cask-fonts'
 cask 'font-devicons'

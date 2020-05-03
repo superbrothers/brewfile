@@ -653,13 +653,19 @@
         "options": {
           "full_name": "font-hack"
         }
+      },
+      "stay": {
+        "version": "1.3",
+        "options": {
+          "full_name": "stay"
+        }
       }
     }
   },
   "system": {
     "macos": {
       "catalina": {
-        "HOMEBREW_VERSION": "2.2.14",
+        "HOMEBREW_VERSION": "2.2.14-54-g3247f26",
         "HOMEBREW_PREFIX": "/usr/local",
         "Homebrew/homebrew-core": "ffa734b69ff689eda3fe0589be9a5ac5a1b4a8d9",
         "CLT": "11.4.1.0.1.1586360307",

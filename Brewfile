@@ -52,5 +52,8 @@ cask 'font-noto-serif'
 cask 'font-hack'
 
 tap 'sanemat/font'
+# After installing ricty, execute the following commands:
+# $ cp -f $(brew --prefix ricty)/share/fonts/Ricty*.ttf ~/Library/Fonts/
+# $ fc-cache -vf
 brew 'ricty', args: ['with-powerline']
 # vim: set ft=ruby :

@@ -29,6 +29,7 @@ brew 'gnupg'
 brew 'watch'
 # https://qiita.com/ykgeek/items/98ecfd0f3e22cea7eb10
 brew 'pinentry-mac'
+brew 'findutils'
 
 tap 'superbrothers/zsh-kubectl-prompt'
 brew 'zsh-kubectl-prompt'
